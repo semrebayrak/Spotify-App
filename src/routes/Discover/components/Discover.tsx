@@ -45,7 +45,6 @@ export default class Discover extends Component<IDiscoverProps, IDiscoverState> 
   }
   render() {
     const { newReleases, playlists, categories } = this.state;
-    const _this = this;
 
 
 
