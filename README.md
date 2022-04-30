@@ -1,3 +1,13 @@
+Docker Link :  https://hub.docker.com/repository/docker/semrebayrak/spotify-app
+
+Dockerization Example : docker run --name nameofyourchoice -d -p 3000:3000 semrebayrak/spotify-app:latest
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
